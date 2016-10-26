@@ -34,7 +34,7 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>model://roboy/dae/baugruppe_oberkoerper_fuer_mep.dae</uri>
+            <uri>model://roboy/deciminated-dae/baugruppe_oberkoerper_fuer_mep.dae</uri>
           </mesh>
         </geometry>
         <surface>
@@ -188,7 +188,7 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>model://roboy/dae/121213_PROTOTYP_Kopf-Vorderteil.dae</uri>
+            <uri>model://roboy/deciminated-dae/121213_PROTOTYP_Kopf-Vorderteil.dae</uri>
           </mesh>
         </geometry>
         <surface>
@@ -268,7 +268,7 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>model://roboy/dae/p-fuss-links-v12.dae</uri>
+            <uri>model://roboy/deciminated-dae/p-fuss-links-v12.dae</uri>
           </mesh>
         </geometry>
         <surface>
@@ -347,7 +347,7 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>model://roboy/dae/p-handflaeche-teil-2-v01.dae</uri>
+            <uri>model://roboy/deciminated-dae/p-handflaeche-teil-2-v01.dae</uri>
           </mesh>
         </geometry>
         <surface>
@@ -426,7 +426,7 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>model://roboy/dae/p-unterschenkel-v02.dae</uri>
+            <uri>model://roboy/deciminated-dae/p-unterschenkel-v02.dae</uri>
           </mesh>
         </geometry>
         <surface>
@@ -579,7 +579,7 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>model://roboy/dae/p-oberarm-1-v02.dae</uri>
+            <uri>model://roboy/deciminated-dae/p-oberarm-1-v02.dae</uri>
           </mesh>
         </geometry>
         <surface>
@@ -658,7 +658,7 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>model://roboy/dae/p-becken-v06.dae</uri>
+            <uri>model://roboy/deciminated-dae/p-becken-v06.dae</uri>
           </mesh>
         </geometry>
         <surface>
@@ -739,7 +739,7 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>model://roboy/dae/p-fuss-links-v12.dae</uri>
+            <uri>model://roboy/deciminated-dae/p-fuss-links-v12.dae</uri>
           </mesh>
         </geometry>
         <surface>
@@ -819,7 +819,7 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>model://roboy/dae/p-handflaeche-teil-2-v01.dae</uri>
+            <uri>model://roboy/deciminated-dae/p-handflaeche-teil-2-v01.dae</uri>
           </mesh>
         </geometry>
         <surface>
@@ -899,7 +899,7 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>model://roboy/dae/p-unterschenkel-v02.dae</uri>
+            <uri>model://roboy/deciminated-dae/p-unterschenkel-v02.dae</uri>
           </mesh>
         </geometry>
         <surface>
@@ -1052,7 +1052,7 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>model://roboy/dae/p-oberarm-1-v02.dae</uri>
+            <uri>model://roboy/deciminated-dae/p-oberarm-1-v02.dae</uri>
           </mesh>
         </geometry>
         <surface>
